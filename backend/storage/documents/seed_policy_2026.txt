@@ -1,0 +1,12 @@
+ENTERPRISE REMOTE WORK & SECURITY POLICY 2026
+Section 1: General Guidelines & Eligibility
+All full-time employees are eligible for hybrid remote work up to 3 days per week upon manager approval. Remote work must be conducted using company-issued laptops equipped with full disk encryption.
+
+Section 2: Data Confidentiality & Access Control
+Employees must never store enterprise customer data on personal devices or unsecured USB drives. Access to confidential financial reports is strictly restricted to authorized role-based personnel (Finance Managers & Admins).
+
+Section 3: Travel & Expense Reimbursement Policy
+Business travel expenses including flights, hotel lodging up to $250/night, and meals up to $75/day must be submitted within 14 days of completion. Receipts are mandatory for all transactions exceeding $25.
+
+Section 4: Incident Response & Security Breaches
+In case of a lost laptop or suspicious phishing email, employees must notify the Security Operations Center (SOC) within 1 hour.
