@@ -864,7 +864,8 @@ See [`LICENSE`](LICENSE) for more information.
 
 # 👨‍💻 Author
 
-**Kishor Patil**
+**Kishor Patil**    
+**Mohit Bhombe**
 
 GitHub: [Kishor055](https://github.com/Kishor055)
 
